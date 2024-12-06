@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+.app-container{
+  display: flex;
+}
+.container2{
+  width: 100%;
+}
+.sidebar{
+  min-height: 800px;
+}
+.post-card{
+  margin: 20px 50px;
+}
+.hastag{
+  margin: 0 5px;
+}
+.btn-cont{
+  display: flex;
+  margin: 15px 6px;
+}
+
+.create-post{
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.userid{
+  font-family: "Jersey 10", sans-serif;;
+  font-size: 27px;
+  font-weight: bolder;
+  color: #6c6c6c;
+  margin-left: 20px;
+}
+.mess{
+  margin-top: 50px;
+}
+.spinner{
+  margin: 13% 0;
+}
+
+
